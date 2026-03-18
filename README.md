@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tyjir! <br/><a href="https://github.com/Tyjir">IT Support</a>, <a href="https://www.linkedin.com/in/Tyjir/">Cloud Support Engineer</a>, <a href="https://www.youtube.com/c/Tyjir">YouTuber</a></h1>
+<h1>Hi, I'm Tyjir! <br/><a href="https://github.com/Tyjir">IT Support</a>, <a href="https://www.linkedin.com/in/Tyjir/">Cloud Support Associate</a>, <a href="https://www.youtube.com/c/Tyjir">YouTuber</a></h1>
 
 <h2>👨‍💻 AWS Cloud Projects:</h2>
 
