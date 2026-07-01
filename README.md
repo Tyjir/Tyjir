@@ -1,18 +1,18 @@
-<h1>Hi, I'm Tyjir! <br/><a href="https://github.com/Tyjir">IT Support</a>, <a href="https://www.linkedin.com/in/Tyjir/">Cloud Support Associate</a>, <a href="https://www.youtube.com/c/Tyjir">YouTuber</a></h1>
+<h1>Hi, I'm Tyjir! <br/><a href="https://github.com/Tyjir">IT Support</a>, <a href="https://www.linkedin.com/in/Tyjir/">Cloud Support Associate</a>,
 
 <h2>👨‍💻 AWS Cloud Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- [Active Directory Home Lab](https://github.com/TyjirDawson/Algorithms-Practice)
   
 <h2> 📄Certifications</h2>
 
-- [Google IT Support Professional]
-- [Tutorial Active Directory Home Lab]
+- [Western govern university - Bachelor of science in Information Technology]
+- 5/2026 - 6/2027
 
 <h2> 🤳 Connect with me:</h2>
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tyjirdawson/tyjirdawson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
