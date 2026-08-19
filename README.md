@@ -1,6 +1,6 @@
 <div align="center"> <img src="https://capsule-render.vercel.app/api?type=transparent&text=TYJIR%20DAWSON&fontSize=75&fontColor=00FF41&fontAlignY=50&height=150&fontFamily=Fira+Code" alt="Tyjir Dawson" width="750"/> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=IT+Support+Specialist;Help+Desk+%7C+Technical+Support;Active+Directory+%7C+Networking;Problem+Solver+%7C+Fast+Learner" alt="Typing SVG" /> </a> <br/>
 
-🎓 Currently building: TryHackMe SOC/IT Path | Working toward CompTIA A+
+🎓 Currently building: TryHackMe SOC/IT Path | Working toward CCNA
 
 <br/> <a href="https://www.linkedin.com/in/tyjir-dawson"> <img src="https://img.shields.io/badge/LinkedIn-Connect-00FF41?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000" alt="LinkedIn"/> </a> <a href="your-resume-link-here"> <img src="https://img.shields.io/badge/Resume-Download-00FF41?style=for-the-badge&logo=readdotcv&logoColor=black&labelColor=000000" alt="Resume"/> </a> <img src="https://komarev.com/ghpvc/?username=tyjir-dawson&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/> </div>
 <div align="center">
