@@ -1,25 +1,23 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=transparent&text=TYJIR%20DAWSON&fontSize=45&fontColor=00FF41&fontAlignY=50&height=120&fontFamily=Fira+Code&desc=false" alt="Tyjir Dawson" width="600"/> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=600&lines=IT+Support+Specialist;Help+Desk+%7C+Technical+Support;Active+Directory+%7C+Networking;Problem+Solver+%7C+Fast+Learner" alt="Typing SVG" /> </a> <br/> <a href="https://www.linkedin.com/in/tyjir-dawson"> <img src="https://img.shields.io/badge/LinkedIn-Connect-00FF41?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000" alt="LinkedIn"/> </a> <a href="your-resume-link-here"> <img src="https://img.shields.io/badge/Resume-Download-00FF41?style=for-the-badge&logo=readdotcv&logoColor=black&labelColor=000000" alt="Resume"/> </a>
-</div>
-
-Active Directory Windows Server Group Policy ServiceNow
-
-⚡ Diagnosing and resolving common end-user Windows issues from first contact to resolution.
-
-<div align="center"> <sub style="color:#00FF41;">Thanks for stopping by — let's connect!</sub> </div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=transparent&text=TYJIR%20DAWSON&fontSize=75&fontColor=00FF41&fontAlignY=50&height=150&fontFamily=Fira+Code" alt="Tyjir Dawson" width="750"/> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=600&lines=IT+Support+Specialist;Help+Desk+%7C+Technical+Support;Active+Directory+%7C+Networking;Problem+Solver+%7C+Fast+Learner" alt="Typing SVG" /> </a> <br/>
 
 🎓 Currently building: TryHackMe SOC/IT Path | Working toward CompTIA A+
 
-<br/><div align="center">
+<br/> <a href="https://www.linkedin.com/in/tyjir-dawson"> <img src="https://img.shields.io/badge/LinkedIn-Connect-00FF41?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=000000" alt="LinkedIn"/> </a> <a href="your-resume-link-here"> <img src="https://img.shields.io/badge/Resume-Download-00FF41?style=for-the-badge&logo=readdotcv&logoColor=black&labelColor=000000" alt="Resume"/> </a> <img src="https://komarev.com/ghpvc/?username=tyjir-dawson&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/> </div>
+<div align="center">
 ⟨ MISSION LOGS — SUPPORT GUIDES ⟩
-<table> <tr> <td width="50%" valign="top">
+</div> <table> <tr> <td width="50%" valign="top">
 🟢 ACTIVE DIRECTORY ACCOUNT MANAGEMENT
 
 ⚡ Resetting passwords, unlocking accounts, and managing group policy — the way it'd be handled on a real service desk ticket.
 
 Step-by-step guide covering user/group administration in Active Directory: locked account recovery, password reset workflows, and basic group policy structure. Written as a reference for real L1 scenarios.
 
+Active Directory Windows Server Group Policy ServiceNow
+
 </td> <td width="50%" valign="top">
 🔴 WINDOWS TROUBLESHOOTING FUNDAMENTALS
+
+⚡ Diagnosing and resolving common end-user Windows issues from first contact to resolution.
 
 Covers system tools, event viewer basics, and a structured approach to diagnosing user-reported issues — from "my computer won't connect" to application crashes.
 
