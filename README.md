@@ -8,7 +8,7 @@
 
 <br/>
 
-🎓 Currently building: **TryHackMe SOC/IT Path** | Working toward **CCNA**
+🎓 WGU Accelerated IT Bachelor's and Master's Degree (current) | Working toward **CCNA**
 
 <br/>
 
